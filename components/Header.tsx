@@ -31,14 +31,14 @@ export const Header = () => {
                             fontSize={{ base: "xs", sm: "md" }}
                             color="gray.500"
                         >
-                            성균관대학교 소프트웨어학과
+                            성균관대학교 컴퓨터교육과
                         </Text>
                         <Text
                             fontSize={{ base: "sm", sm: "md" }}
                             fontWeight={600}
                             color="gray.500"
                         >
-                            오픈소스 소프트웨어 실습
+                            Babble
                         </Text>
                     </Flex>
                 </Center>
@@ -52,7 +52,7 @@ export const Header = () => {
                             size={{ base: "xs", md: "sm" }}
                             px={4}
                             onClick={() =>
-                                window.open("https://idclab.skku.edu")
+                                window.open("https://comedu.skku.edu")
                             }
                         >
                             <Flex>
@@ -61,14 +61,14 @@ export const Header = () => {
                                     fontFamily="idc"
                                     fontWeight={600}
                                 >
-                                    IDC
+                                    COM
                                 </Text>
                                 <Text
                                     fontSize={"md"}
                                     fontFamily="idc"
                                     fontWeight={500}
                                 >
-                                    Lab
+                                    Edu
                                 </Text>
                             </Flex>
                         </Button>
@@ -81,8 +81,8 @@ export const Header = () => {
                             px={4}
                             onClick={() =>
                                 window.open(
-                                    "https://docs.google.com/forms/d/e/1FAIpQLSfu9JBNfNYu4KXPRTCnULin6Zg70BqsKsbFYz3IZbYU3wFv7g/viewform"
-                                )
+                                    "https://forms.gle/bmpJKFCM2vddkAUg9"
+                                    )
                             }
                         >
                             Survey

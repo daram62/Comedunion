@@ -7,12 +7,14 @@ interface Project {
     description : string
     liveDemoUrl: string
     prize: boolean
+    call : number
 }
 
 interface Student {
     id: string
     name: string
     department: string
+    
 }
 
 export type { Project }

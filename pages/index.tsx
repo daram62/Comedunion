@@ -17,7 +17,7 @@ export default function Home() {
     useEffect(() => {
         async function fetchData() {
             const result = await axios.get(
-                "https://raw.githubusercontent.com/Jason-Choi/skku-ossp-gallery/main/data/2022fall.json"
+                "https://raw.githubusercontent.com/daram62/Comedunion/main/data/2022fall.json"
             );
             const shuffledData = SHUFFLE ? shuffle(result.data) : result.data;
             setDataState(shuffledData);
@@ -29,7 +29,7 @@ export default function Home() {
     return (
         <Box backgroundColor={"gray.50"}>
             <Head>
-                <title>SKKU OSSP Gallery</title>
+                <title>Babble</title>
                 <link
                     type="image/png"
                     rel="icon"
@@ -47,7 +47,7 @@ export default function Home() {
                 }}
             >
                 <Heading size="md" my={4}>
-                    2022학년도 가을학기
+                    2022학년도 캡스톤디자인
                 </Heading>
                 {loadingState ? null : (
                     <SimpleGrid columns={{ base: 2, lg: 3, xl: 4 }} spacing={4}>

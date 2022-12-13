@@ -44,6 +44,9 @@ export const Preview = ({ project }: PreviewProject) => {
                     <Text fontSize={{ base: "xs", md: "sm" }}>
                         {project.description}
                     </Text>
+                    <Text fontSize={{ base: "xs", md: "sm" }}>
+                        {project.call}
+                    </Text>
                     <Divider />
                     {project.students.map((student) => (
                         <Stack direction={"row"} key={student.name}>

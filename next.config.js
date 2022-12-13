@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  basePath: "/skku-ossp-gallery",
+  basePath: "/Comedunion",
   images: {
     unoptimized: true,
     domains: ['img.youtube.com'],

@@ -30,8 +30,8 @@
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=D0qGMlRltDw",
-        "repositoryUrl": "https://github.com/suooo/2022-OSS-Team2",
-        "liveDemoUrl": "https://suooo.github.io/2022-OSS-Team2/",
+        "repositoryUrl": "https://github.com/daram62",
+        "liveDemoUrl": "",
         "description": "운동을 통해 미로를 탐험하고, 난이도에 따라 경로를 선택하며 미로를 헤쳐나갈 수 있는 게임 & 랭킹 정렬 웹사이트\n",
         "prize": false
 
@@ -47,7 +47,7 @@
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=B2qKE3y7JVM",
-        "repositoryUrl": "https://github.com/Suyoung-Min/Hang-man",
+        "repositoryUrl": "https://github.com/daram62",
         "description": "과제 목록을 작성한 후 오늘의 공부 시간을 입력하면 Knapsack 방식으로 끝내야 할 과제 추천",
         "prize": true
     },
@@ -59,11 +59,11 @@
                 "name": "아이즈"
             },
             {
-                "department": "이지윤,지윤호,송준영, 정은희"
+                "department": "이지윤,지윤호,송준영,정은희"
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=LB9gozxUUIU",
-        "repositoryUrl": "https://github.com/sanmong/SKKU_Trip_Checker",
+        "repositoryUrl": "https://github.com/daram62",
         "liveDemoUrl": "",
         "description": "백트래킹 알고리즘을 이용해 벤젠고리관의 길을 찾아 주는 프로그램",
         "prize": true
@@ -85,7 +85,7 @@
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=cmfhH1E0Cx0",
-        "repositoryUrl": "https://github.com/Goathoon/OSSP-5",
+        "repositoryUrl": "https://github.com/daram62",
         "liveDemoUrl": "",
         "description": "팀플 관리 프로그램으로 하나하나를 알차게 모아 태산과 같은 프로젝트를 완성하자!",
         "prize": true
@@ -107,7 +107,7 @@
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=VAwy1XxBRDg",
-        "repositoryUrl": "https://github.com/taeyangk0331/SKKU_OSSP_Project",
+        "repositoryUrl": "https://github.com/daram62",
         "liveDemoUrl": "",
         "description": "그리디 알고리즘을 이용한 아르바이트 스케줄링 프로그램",
         "prize": true
@@ -147,7 +147,7 @@
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=fxy689--9K0",
-        "repositoryUrl": "https://github.com/gunhee8178/SKKU_MAP",
+        "repositoryUrl": "https://github.com/daram62",
         "liveDemoUrl": "",
         "description": "교사, 학생에게 모두 필요한 팀프로젝트 과정에서 mbti를 이용한 최적의 팀원 구성 프로그램",
         "prize": true
@@ -165,7 +165,7 @@
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=b8_EZpzK-fk",
-        "repositoryUrl": "https://github.com/SKKUramic/OSSP_Team9",
+        "repositoryUrl": "https://github.com/daram62",
         "liveDemoUrl": "",
         "description": "branch and bound 알고리즘을 이용해 네이버 쿠키를 최적으로 사용하는 방법을 알려주는 프로그램",
         "prize": true

@@ -17,7 +17,7 @@ export default function Home() {
     useEffect(() => {
         async function fetchData() {
             const result = await axios.get(
-                "https://raw.githubusercontent.com/daram62/Comedunion/main/data/2022fall.json"
+                "https://raw.githubusercontent.com/daram62/Comedunion/main/data/2022union.json"
             );
             const shuffledData = SHUFFLE ? shuffle(result.data) : result.data;
             setDataState(shuffledData);

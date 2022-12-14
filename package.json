@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
-    "deploy": "touch out/.nojekyll && gh-pages -d out --dotfiles"
+    "deploy": "touch out/.nojekyll && gh-pages -d out --dotfiles",
+    "upload": "cd data && npx convert-xlsx-to-json gen --from ./algotest.xlsx --propKeys id projectName team name videoUrl repositoryUrl liveDemoUrl description;"
   },
   "dependencies": {
     "@chakra-ui/react": "^2.4.1",

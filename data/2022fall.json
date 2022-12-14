@@ -12,7 +12,7 @@
                 "department": "박정수, 안정후, 윤태현"
             }
         ],
-        "videoUrl": "https://youtu.be/vM4395hCAhc",
+        "videoUrl": "https://www.youtube.com/watch?v=vM4395hCAhc&t=12s",
         "repositoryUrl": "https://github.com/Li-Hongmin/MyPaperWithCode",
         "liveDemoUrl": "",
         "description": "교수자의 스타일을 분석(과제 유형, 시험 횟수, 강의 스타일 등)하고 학습 스타일 검사를 시행해 나와 맞는 최고의 교수자를 추천해주는 시스템.\n",
@@ -29,7 +29,7 @@
                 "department": "박민성, 양동석, 윤세린, 정일묵"
             }
         ],
-        "videoUrl": "https://youtu.be/D0qGMlRltDw",
+        "videoUrl": "https://www.youtube.com/watch?v=D0qGMlRltDw",
         "repositoryUrl": "https://github.com/suooo/2022-OSS-Team2",
         "liveDemoUrl": "https://suooo.github.io/2022-OSS-Team2/",
         "description": "운동을 통해 미로를 탐험하고, 난이도에 따라 경로를 선택하며 미로를 헤쳐나갈 수 있는 게임 & 랭킹 정렬 웹사이트\n",
@@ -46,7 +46,7 @@
                 "department": "임혜림, 김지윤, 김회민, 이재림"
             }
         ],
-        "videoUrl": "https://youtu.be/B2qKE3y7JVM",
+        "videoUrl": "https://www.youtube.com/watch?v=B2qKE3y7JVM",
         "repositoryUrl": "https://github.com/Suyoung-Min/Hang-man",
         "description": "과제 목록을 작성한 후 오늘의 공부 시간을 입력하면 Knapsack 방식으로 끝내야 할 과제 추천",
         "prize": true
@@ -62,7 +62,7 @@
                 "department": "이지윤,지윤호,송준영, 정은희"
             }
         ],
-        "videoUrl": "https://youtu.be/LB9gozxUUIU",
+        "videoUrl": "https://www.youtube.com/watch?v=LB9gozxUUIU",
         "repositoryUrl": "https://github.com/sanmong/SKKU_Trip_Checker",
         "liveDemoUrl": "",
         "description": "백트래킹 알고리즘을 이용해 벤젠고리관의 길을 찾아 주는 프로그램",
@@ -84,7 +84,7 @@
                 "department": ""
             }
         ],
-        "videoUrl": "https://youtu.be/cmfhH1E0Cx0",
+        "videoUrl": "https://www.youtube.com/watch?v=fxy689--9K0",
         "repositoryUrl": "https://github.com/Goathoon/OSSP-5",
         "liveDemoUrl": "",
         "description": "팀플 관리 프로그램으로 하나하나를 알차게 모아 태산과 같은 프로젝트를 완성하자!",
@@ -106,7 +106,7 @@
                 "department": ""
             }
         ],
-        "videoUrl": "https://youtube.com/shorts/_Sxb1ZrsHhw?feature=share",
+        "videoUrl": "https://www.youtube.com/watch?v=VAwy1XxBRDg",
         "repositoryUrl": "https://github.com/taeyangk0331/SKKU_OSSP_Project",
         "liveDemoUrl": "",
         "description": "그리디 알고리즘을 이용한 아르바이트 스케줄링 프로그램",
@@ -128,7 +128,7 @@
                 "department": ""
             }
         ],
-        "videoUrl": "https://youtu.be/13cCF2h3EIc",
+        "videoUrl": "https://www.youtube.com/watch?v=13cCF2h3EIc&t=5s",
         "repositoryUrl": "https://github.com/1jiwoo27/cens",
         "liveDemoUrl": "",
         "description": "컴퓨터교육과 학생들에게 전문 항해자가 되어주겠다는 의미로, 전공 로드맵, 강의 추천 등의 기능",
@@ -146,7 +146,7 @@
                 "department": "윤정연, 송지원, 한솔, 이수현"
             }
         ],
-        "videoUrl": "https://youtu.be/fxy689--9K0",
+        "videoUrl": "https://www.youtube.com/watch?v=fxy689--9K0",
         "repositoryUrl": "https://github.com/gunhee8178/SKKU_MAP",
         "liveDemoUrl": "",
         "description": "교사, 학생에게 모두 필요한 팀프로젝트 과정에서 mbti를 이용한 최적의 팀원 구성 프로그램",
@@ -164,7 +164,7 @@
                 "department": "김소미, 이채영, 강서현, 김은서"
             }
         ],
-        "videoUrl": "https://youtu.be/b8_EZpzK-fk",
+        "videoUrl": "https://www.youtube.com/watch?v=b8_EZpzK-fk",
         "repositoryUrl": "https://github.com/SKKUramic/OSSP_Team9",
         "liveDemoUrl": "",
         "description": "branch and bound 알고리즘을 이용해 네이버 쿠키를 최적으로 사용하는 방법을 알려주는 프로그램",

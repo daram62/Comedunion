@@ -1,0 +1,20 @@
+[
+  {
+    "project": "CENS",
+    "team": "CEPO",
+    "name": "김민서, 윤상진, 전헤진, 엄지우",
+    "github": "https://github.com/daram62/DataStructure_Algorithm_Bootcamp",
+    "site": "http:localhost:3000/Comedunion",
+    "description": "이 사이트는 컴교생들의 항해자가 되어주고 싶다는 의미의 사이트에요~"
+  },
+  {
+    "project": "교케아",
+    "team": "건우없는 건우팀",
+    "name": "건우",
+    "youtube": "으ㅏ",
+    "github": "아아",
+    "site": "ㅏ아",
+    "description": "아아"
+  },
+  {}
+]

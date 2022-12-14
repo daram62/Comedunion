@@ -12,7 +12,7 @@
                 "department": "박정수, 안정후, 윤태현"
             }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=tBe3q0kzsio",
+        "videoUrl": "https://www.youtube.com/watch?v=VMH5TA_tRmo",
         "repositoryUrl": "https://github.com/Li-Hongmin/MyPaperWithCode",
         "liveDemoUrl": "",
         "description": "교수자의 스타일을 분석(과제 유형, 시험 횟수, 강의 스타일 등)하고 학습 스타일 검사를 시행해 나와 맞는 최고의 교수자를 추천해주는 시스템.\n",
@@ -100,8 +100,7 @@
                 "department": ""
             },
             {
-                "name": "한우석, 권민선, 하서현, 최예준",
-                "department": ""
+                "department": "한우석, 권민선, 하서현, 최예준"
             },
             {
                 "name": "",

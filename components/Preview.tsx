@@ -52,6 +52,8 @@ export const Preview = ({ project }: PreviewProject) => {
                             >
                                 {project.team}
                             </Text>
+                    </Stack>
+                    <Stack direction={"row"} key={project.team}>               
                             <Text fontSize={{ base: "sm", md: "sm" }}>
                                 {project.name}
                             </Text>

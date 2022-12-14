@@ -4,12 +4,12 @@
         "projectName": "교케아",
         "students": [
             {
-                "name": "건우 없는 건우팀",
-                "department": ""
+                "team": "건우 없는 건우팀",
+                "name": ""
 
             },
             {
-                "department": "박정수, 안정후, 윤태현"
+                "name": "박정수, 안정후, 윤태현"
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=0nYcNxcI3ww",
@@ -23,10 +23,10 @@
         "projectName": "너 운동된거야.",
         "students": [
             {
-                "name": "B1A3"
+                "team": "B1A3"
             },
             {
-                "department": "박민성, 양동석, 윤세린, 정일묵"
+                "name": "박민성, 양동석, 윤세린, 정일묵"
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=D0qGMlRltDw",
@@ -41,9 +41,9 @@
         "projectName": "하루플랜",
         "students": [
             {
-                "name": "알리바이"},
+                "team": "알리바이"},
             {
-                "department": "임혜림, 김지윤, 김회민, 이재림"
+                "name": "임혜림, 김지윤, 김회민, 이재림"
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=B2qKE3y7JVM",
@@ -56,10 +56,10 @@
         "projectName": "벤젠고리관 길찾기",
         "students": [
             {
-                "name": "아이즈"
+                "team": "아이즈"
             },
             {
-                "department": "이지윤,지윤호,송준영,정은희"
+                "name": "이지윤,지윤호,송준영,정은희"
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=LB9gozxUUIU",
@@ -73,15 +73,15 @@
         "projectName": "팀플 모아 태산",
         "students": [
             {
-                "name": "조장이 기쁨조",
-                "department": ""
+                "team": "조장이 기쁨조",
+                "name": ""
             },
             {
-                "department": "송영민, 김태건, 이준호, 손동민"
+                "name": "송영민, 김태건, 이준호, 손동민"
                 },
             {
-                "name": "",
-                "department": ""
+                "team": "",
+                "name": ""
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=cmfhH1E0Cx0",
@@ -95,15 +95,15 @@
         "projectName": "아르바이트 비서",
         "students": [
             {
-                "name": "재수강은 안된다",
-                "department": ""
+                "team": "재수강은 안된다",
+                "name": ""
             },
             {
-                "department": "한우석, 권민선, 하서현, 최예준"
+                "name": "한우석, 권민선, 하서현, 최예준"
             },
             {
-                "name": "",
-                "department": ""
+                "team": "",
+                "name": ""
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=VAwy1XxBRDg",
@@ -117,15 +117,15 @@
         "projectName": "CENS",
         "students": [
             {
-                "name": "CEPO",
-                "department": ""
+                "team": "CEPO",
+                "name": ""
             },
             {
-                "department": "김민서, 윤상진, 엄지우, 전혜진"
+                "name": "김민서, 윤상진, 엄지우, 전혜진"
             },
             {
-                "name": "",
-                "department": ""
+                "team": "",
+                "name": ""
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=WemEKEzwc58",
@@ -139,11 +139,11 @@
         "projectName": "MBTI를 이용한 팀원 구성",
         "students": [
             {
-                "name": "한컴",
-                "department": ""
+                "team": "한컴",
+                "name": ""
             },
             {
-                "department": "윤정연, 송지원, 한솔, 이수현"
+                "name": "윤정연, 송지원, 한솔, 이수현"
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=fxy689--9K0",
@@ -157,11 +157,11 @@
         "projectName": "내가 사는 쿠키",
         "students": [
             {
-                "name": "김이강",
-                "department": ""
+                "team": "김이강",
+                "name": ""
             },
             {
-                "department": "김소미, 이채영, 강서현, 김은서"
+                "name": "김소미, 이채영, 강서현, 김은서"
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=b8_EZpzK-fk",

@@ -13,8 +13,8 @@ interface Project {
 
 interface Student {
     id: string
+    team: string
     name: string
-    department: string
     
 }
 

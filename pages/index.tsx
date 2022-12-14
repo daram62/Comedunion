@@ -47,7 +47,7 @@ export default function Home() {
                 }}
             >
                 <Heading size="md" my={4}>
-                    2022학년도 캡스톤디자인
+                    2022학년도 알고리즘
                 </Heading>
                 {loadingState ? null : (
                     <SimpleGrid columns={{ base: 2, lg: 3, xl: 4 }} spacing={4}>

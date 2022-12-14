@@ -31,7 +31,7 @@ export const Header = () => {
                             fontSize={{ base: "xs", sm: "md" }}
                             color="gray.500"
                         >
-                            성균관대학교 컴퓨터교육과
+                            SW·AI 캡스톤디자인 경진대회
                         </Text>
                         <Text
                             fontSize={{ base: "sm", sm: "md" }}

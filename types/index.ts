@@ -8,6 +8,7 @@ interface Project {
     liveDemoUrl: string
     prize: boolean
     call : number
+    instagramUrl : string
 }
 
 interface Student {

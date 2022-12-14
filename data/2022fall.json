@@ -85,7 +85,7 @@
                 "department": ""
             }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=AbGDpvCUAVQ",
+        "videoUrl": "https://youtu.be/cmfhH1E0Cx0",
         "repositoryUrl": "https://github.com/Goathoon/OSSP-5",
         "liveDemoUrl": "",
         "description": "팀플 관리 프로그램으로 하나하나를 알차게 모아 태산과 같은 프로젝트를 완성하자!",
@@ -168,7 +168,7 @@
         "videoUrl": "https://youtu.be/b8_EZpzK-fk",
         "repositoryUrl": "https://github.com/SKKUramic/OSSP_Team9",
         "liveDemoUrl": "",
-        "description": "",
+        "description": "branch and bound 알고리즘을 이용해 네이버 쿠키를 최적으로 사용하는 방법을 알려주는 프로그램",
         "prize": true
     },
     {

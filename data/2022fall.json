@@ -4,12 +4,12 @@
         "projectName": "교케아",
         "students": [
             {
-                "name": "건우 없는 건우탐",
-                "department": "건설환부"
+                "name": "건우 없는 건우팀",
+                "department": ""
 
             },
             {
-                "name": "박정수, 안정후, 윤태현"
+                "department": "박정수, 안정후, 윤태현"
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=tBe3q0kzsio",
@@ -26,7 +26,7 @@
                 "name": "B1A3"
             },
             {
-                "name": "박민성, 양동석, 윤세린, 정일묵"
+                "department": "박민성, 양동석, 윤세린, 정일묵"
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=pI2VQHGsJhQ",
@@ -44,7 +44,7 @@
             {
                 "name": "알리바이"},
             {
-                "name": "임혜림, 김지윤, 김회민, 이재림"
+                "department": "임혜림, 김지윤, 김회민, 이재림"
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=-9tQc1o688E",
@@ -60,7 +60,7 @@
                 "name": "아이즈"
             },
             {
-                "name": "이지윤,지윤호,송준영, 정은희"
+                "department": "이지윤,지윤호,송준영, 정은희"
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=24XClweTBfM",
@@ -78,9 +78,8 @@
                 "department": ""
             },
             {
-                "name": "송영민, 김태건, 이준호, 손동민",
-                "department": ""
-            },
+                "department": "송영민, 김태건, 이준호, 손동민"
+                },
             {
                 "name": "",
                 "department": ""
@@ -124,8 +123,7 @@
                 "department": ""
             },
             {
-                "name": "김민서, 윤상진, 엄지우, 전혜진",
-                "department": ""
+                "department": "김민서, 윤상진, 엄지우, 전혜진"
             },
             {
                 "name": "",
@@ -147,8 +145,7 @@
                 "department": ""
             },
             {
-                "name": "윤정연, 송지원, 한솔, 이수현",
-                "department": ""
+                "department": "윤정연, 송지원, 한솔, 이수현"
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=__LdtIaBSUU",
@@ -166,8 +163,7 @@
                 "department": ""
             },
             {
-                "name": "김소미, 이채영, 강서현, 김은서",
-                "department": ""
+                "department": "김소미, 이채영, 강서현, 김은서"
             }
         ],
         "videoUrl": "https://www.youtube.com/watch?v=Xu5jPIvz6Cw",

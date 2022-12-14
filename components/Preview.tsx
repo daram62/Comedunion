@@ -45,19 +45,17 @@ export const Preview = ({ project }: PreviewProject) => {
                         {project.description}
                     </Text>
                     <Divider />
-                    {project.students.map((student) => (
-                        <Stack direction={"row"} key={student.team}>
+                    <Stack direction={"row"} key={project.team}>
                             <Text
                                 fontSize={{ base: "sm", md: "sm" }}
                                 fontWeight={600}
                             >
-                                {student.team}
+                                {project.team}
                             </Text>
                             <Text fontSize={{ base: "sm", md: "sm" }}>
-                                {student.name}
+                                {project.name}
                             </Text>
                         </Stack>
-                    ))}
                     <Divider />
                     <Stack direction={{ base: "column", sm: "row" }}>
                         <Button

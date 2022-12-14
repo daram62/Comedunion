@@ -1,7 +1,8 @@
 interface Project {
     id: number
     projectName: string
-    students: Student[]
+    team: string
+    name: string
     videoUrl: string
     repositoryUrl: string
     description : string
@@ -9,13 +10,6 @@ interface Project {
     prize: boolean
     call : number
     instagramUrl : string
-}
-
-interface Student {
-    id: string
-    team: string
-    name: string
-    
 }
 
 export type { Project }

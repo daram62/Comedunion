@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "projectName": "교케아",
+    "team": "건우 없는 건우팀",
+    "name": "박정수, 안정후, 윤태현",
+    "videoUrl": "https://www.youtube.com/watch?v=0nYcNxcI3ww",
+    "repositoryUrl": "https://github.com/SteveJe0ngs/Kyokea",
+    "liveDemoUrl": "",
+    "description": "교수자의 스타일을 분석(과제 유형, 시험 횟수, 강의 스타일 등)하고 학습 스타일 검사를 시행해 나와 맞는 최고의 교수자를 추천해주는 시스템."
+  },
+  {
+    "id": 2,
+    "projectName": "너 운동된거야.",
+    "team": "B1A3",
+    "name": "박민성, 양동석, 윤세린, 정일묵",
+    "videoUrl": "https://www.youtube.com/watch?v=D0qGMlRltDw",
+    "repositoryUrl": "https://github.com/daram62",
+    "liveDemoUrl": "",
+    "description": "운동을 통해 미로를 탐험하고, 난이도에 따라 경로를 선택하며 미로를 헤쳐나갈 수 있는 게임 & 랭킹 정렬 웹사이트"
+  },
+  {
+    "id": 3,
+    "projectName": "하루플랜",
+    "team": "알리바이",
+    "name": "임혜림, 김지윤, 김회민, 이재림",
+    "videoUrl": "https://www.youtube.com/watch?v=B2qKE3y7JVM",
+    "repositoryUrl": "https://github.com/daram62",
+    "description": "과제 목록을 작성한 후 오늘의 공부 시간을 입력하면 Knapsack 방식으로 끝내야 할 과제를 추천해주는 프로그램"
+  },
+  {
+    "id": 4,
+    "projectName": "벤젠고리관 길찾기",
+    "team": "아이즈",
+    "name": "송준영, 이지윤, 정은희, 지윤호",
+    "videoUrl": "https://www.youtube.com/watch?v=LB9gozxUUIU",
+    "repositoryUrl": "https://github.com/daram62",
+    "liveDemoUrl": "",
+    "description": "백트래킹 알고리즘을 이용해 벤젠고리관의 길을 찾아 주는 프로그램"
+  },
+  {
+    "id": 5,
+    "projectName": "팀플 모아 태산",
+    "team": "조장이 기쁨조",
+    "name": "김태건, 손동민, 송영민, 이준호",
+    "videoUrl": "https://www.youtube.com/watch?v=cmfhH1E0Cx0",
+    "repositoryUrl": "https://github.com/daram62",
+    "liveDemoUrl": "",
+    "description": "팀플 관리 프로그램으로 하나하나를 알차게 모아 태산과 같은 프로젝트를 완성하자!"
+  },
+  {
+    "id": 6,
+    "projectName": "아르바이트 비서",
+    "team": "재수강은 안된다",
+    "name": "한우석, 권민선, 하서현, 최예준",
+    "videoUrl": "https://www.youtube.com/watch?v=VAwy1XxBRDg",
+    "repositoryUrl": "https://github.com/daram62",
+    "liveDemoUrl": "",
+    "description": "그리디 알고리즘을 이용한 아르바이트 스케줄링 프로그램"
+  },
+  {
+    "id": 7,
+    "projectName": "CENS",
+    "team": "CEPO",
+    "name": "김민서, 엄지우, 윤상진, 전혜진",
+    "videoUrl": "https://www.youtube.com/watch?v=WemEKEzwc58",
+    "repositoryUrl": "https://github.com/1jiwoo27/cens",
+    "liveDemoUrl": "",
+    "description": "컴퓨터교육과 학생들에게 전문 항해자가 되어주겠다는 의미로, 전공 로드맵, 강의 추천 등의 기능을 담고 있습니다."
+  },
+  {
+    "id": 8,
+    "projectName": "MBTI를 이용한 팀원 구성",
+    "team": "한컴",
+    "name": "송지원, 윤정연, 이수현, 한솔",
+    "videoUrl": "https://www.youtube.com/watch?v=fxy689--9K0",
+    "repositoryUrl": "https://github.com/daram62",
+    "liveDemoUrl": "",
+    "description": "교사, 학생에게 모두 필요한 팀프로젝트 과정에서 mbti를 이용한 최적의 팀원 구성 프로그램"
+  },
+  {
+    "id": 9,
+    "projectName": "내가 사는 쿠키",
+    "team": "김이강",
+    "name": "김소미, 이채영, 강서현, 김은서",
+    "videoUrl": "https://www.youtube.com/watch?v=b8_EZpzK-fk",
+    "repositoryUrl": "https://github.com/daram62",
+    "liveDemoUrl": "",
+    "description": "branch and bound 알고리즘을 이용해 네이버 쿠키를 최적으로 사용하는 방법을 알려주는 프로그램"
+  }
+]

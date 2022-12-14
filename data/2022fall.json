@@ -33,8 +33,7 @@
         "repositoryUrl": "https://github.com/suooo/2022-OSS-Team2",
         "liveDemoUrl": "https://suooo.github.io/2022-OSS-Team2/",
         "description": "운동을 통해 미로를 탐험하고, 난이도에 따라 경로를 선택하며 미로를 헤쳐나갈 수 있는 게임 & 랭킹 정렬 웹사이트\n",
-        "prize": false,
-        "call": "Contact : 010010101"
+        "prize": false
 
     },
     {

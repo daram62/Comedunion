@@ -99,20 +99,20 @@
   },
   {
     "id": 11,
-    "projectName": "final",
-    "team": "finaltest",
-    "name": "Ludia",
-    "videoUrl": "https://www.youtube.com/watch?v=P0LiiXaY3AA",
-    "repositoryUrl": "https://github.com/daram62",
-    "description": "This is final test."
-  },
-  {
-    "id": 12,
     "projectName": "check",
     "team": "Babble",
-    "name": "test",
+    "name": "test1",
     "videoUrl": "https://www.youtube.com/watch?v=_FU4873Ri1U",
     "repositoryUrl": "https://github.com/daram62",
     "description": "캡스톤 디자인 화이팅이에요!"
+  },
+  {
+    "id": 12,
+    "projectName": "christmas",
+    "team": "jazz",
+    "name": "test2",
+    "videoUrl": "https://www.youtube.com/watch?v=8JKoq7iJMco",
+    "repositoryUrl": "https://github.com/daram62",
+    "description": "크리스마스와 재즈"
   }
 ]

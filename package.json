@@ -8,8 +8,9 @@
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
-    "deploy": "touch out/.nojekyll && gh-pages -d out --dotfiles",
-    "upload": "cd data && npx convert-xlsx-to-json gen --from ./algotest.xlsx --propKeys id projectName team name videoUrl repositoryUrl liveDemoUrl description;"
+    "deploy": "yarn upload && touch out/.nojekyll && gh-pages -d out --dotfiles",
+    "upload": "cd data && npx convert-xlsx-to-json gen --from ./data.xlsx --propKeys id projectName team name videoUrl repositoryUrl liveDemoUrl description;"
+    
   },
   "dependencies": {
     "@chakra-ui/react": "^2.4.1",
@@ -37,5 +38,7 @@
   "devDependencies": {
     "@svgr/webpack": "^6.5.1",
     "gh-pages": "^4.0.0"
-  }
+  },
+  "homepage": "http://daram62.github.io/comedunion"
+  
 }

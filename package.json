@@ -8,8 +8,8 @@
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
-    "deploy": "yarn upload && touch out/.nojekyll && gh-pages -d out --dotfiles",
-    "upload": "cd data && npx convert-xlsx-to-json gen --from ./data.xlsx --propKeys id projectName team name videoUrl repositoryUrl liveDemoUrl description;"
+    "deploy": "touch out/.nojekyll && gh-pages -d out --dotfiles",
+    "upload": "cd data && npx convert-xlsx-to-json gen --from ./datㅁ.xlsx --propKeys id projectName team name videoUrl repositoryUrl liveDemoUrl description;"
     
   },
   "dependencies": {
